@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "64.0.0",
+	"FriendlyName": "Meta XR Audio",
+	"Description": "Meta XR audio spatialization",
+	"Category": "Audio",
+	"CreatedBy": "Meta",
+	"CreatedByURL": "https://www.meta.com/",
+	"DocsURL": "https://developer.oculus.com/documentation/unreal/meta-xr-audio-sdk-unreal/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://communityforums.atmeta.com/t5/Unreal-VR-Development/bd-p/dev-unreal",
+	"EngineVersion": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MetaXRAudio",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "MetaXRAudioEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
