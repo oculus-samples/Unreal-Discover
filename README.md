@@ -12,7 +12,7 @@ See the [CONTRIBUTING](./CONTRIBUTING.md) file for how to help out.
 
 This project was built using the [Unreal Engine](https://www.unrealengine.com/) with [Epic Online Services (EOS)](https://dev.epicgames.com/docs/epic-online-services).
 
-You can test out the Unity version of the game on the [Horizon Store](https://www.oculus.com/experiences/quest/7041851792509764/).
+You can test out the Unity version of the game on the [Horizon Store - Discover](https://www.meta.com/experiences/7041851792509764/).
 
 ## Project Description
 
