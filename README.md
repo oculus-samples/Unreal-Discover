@@ -45,6 +45,10 @@ The following is required to test this project within Unreal Engine:
 
 - [The Meta Quest Link app](https://www.meta.com/quest/setup/)
 
+### Required minimal version
+
+This version requires the minimum version of the Meta XR Plugin to be 1.109.0
+
 ### Oculus Unreal fork
 
 The Oculus Unreal fork will give you the most up to date integration of Oculus features. However, you must build the editor from its source.

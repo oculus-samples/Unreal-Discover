@@ -36,6 +36,8 @@ public class UnrealDiscover : ModuleRules
 				"EOSVoiceChat",
 				"OculusUtils",
 			});
+
+		PrivateIncludePaths.AddRange(new string[] { "OculusXRHMD/Private" });
     }
 }
 
