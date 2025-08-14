@@ -54,7 +54,7 @@ This version requires the minimum version of the Meta XR Plugin to be 1.109.0
 The Oculus Unreal fork will give you the most up to date integration of Oculus features. However, you must build the editor from its source.
 
 1. [Get access to the Unreal source code](https://developer.oculus.com/documentation/unreal/unreal-building-ue4-from-source/#prerequisites)
-2. [Clone the `oculus-5.5` branch of the Oculus fork](hhttps://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.5)
+2. [Clone the `oculus-5.5` branch of the Oculus fork](https://github.com/Oculus-VR/UnrealEngine/tree/oculus-5.5)
 3. [Install Visual Studio](https://developer.oculus.com/documentation/unreal/unreal-building-ue4-from-source/#to-download-and-build-unreal-engine)
 4. Open a command prompt in the root of the Unreal, then run this command:
 ```sh
